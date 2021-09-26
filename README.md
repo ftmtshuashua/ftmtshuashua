@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- *** GitHub 统计 ***
+- *** https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md ***
+
 -->
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ftmtshuashua&show_icons=true&theme=ocean_dark) ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ftmtshuashua&layout=compact&show_icons=true&theme=ocean_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ftmtshuashua&show_icons=true&theme=ocean_dark&hide=prs) ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ftmtshuashua&layout=compact&show_icons=true&theme=ocean_dark)
